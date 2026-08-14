@@ -1,7 +1,11 @@
 # EAZO Emperor Storybook MVP
 
 Interactive children's picture-book MVP for the EAZO Hackathon, based on **The Emperor's New Clothes**. The app uses the supplied scene artwork in a linear storybook flow, with a small number of authored thinking checkpoints.
+# Truth Seeker: An Agentic Storybook
 
+Live Demo: https://emperor-new-cloth.netlify.app
+
+An AI-powered interactive storybook based on *The Emperor's New Clothes*, where children explore the story through voice interaction, clue cards, AI narration, BGM, and agent-guided decision points.
 ## Why Agents Are Used
 
 The main story progression is deterministic and owned by the browser runtime. One child-friendly Guide Agent appears only at the six authored scene checkpoints:
