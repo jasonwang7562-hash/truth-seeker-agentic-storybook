@@ -1,7 +1,7 @@
-# EAZO Emperor Storybook MVP
+# Truth Seeker: An Agentic Storybook
 
 Interactive children's picture-book MVP for the EAZO Hackathon, based on **The Emperor's New Clothes**. The app uses the supplied scene artwork in a linear storybook flow, with a small number of authored thinking checkpoints.
-# Truth Seeker: An Agentic Storybook
+
 
 Live Demo: https://emperor-new-cloth.netlify.app
 
