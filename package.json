@@ -1,0 +1,19 @@
+{
+  "name": "eazo-emperor-storybook",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Interactive children's storybook MVP for The Emperor's New Clothes.",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "node scripts/build.js",
+    "preview": "node server.js --dist",
+    "audio:inventory": "node scripts/audio-inventory.mjs",
+    "test": "node scripts/test-story.mjs && node scripts/test-agent.mjs && node scripts/test-audio-workflow.mjs && node scripts/test-voice.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.62.1"
+  }
+}

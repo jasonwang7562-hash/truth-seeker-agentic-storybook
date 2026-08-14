@@ -1,0 +1,12 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "functions": {
+    "api/agent.js": {
+      "maxDuration": 10
+    },
+    "api/transcribe.js": {
+      "maxDuration": 30
+    }
+  }
+}
